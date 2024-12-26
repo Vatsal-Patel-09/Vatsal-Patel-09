@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsal-patel-09&label=Visitors&color=2f0eb4&style=flat" alt="vatsal-patel-09" /> </p>
 
-- 🔭 I’m currently working on **opeaning myself**
+- 🔭 I’m currently working on **myself**
 
 - 🌱 I’m currently learning **AI/ML, Full stack intermediate level, Along side DSA**
 
