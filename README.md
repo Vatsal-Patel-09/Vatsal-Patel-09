@@ -133,11 +133,11 @@
 
 ### 📊 GitHub Stats:
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-patel-09&show_icons=true&theme=dark&locale=en&layout=compact" alt="vatsal-patel-09 Top Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsal-patel-09&show_icons=true&theme=light&locale=en&layout=compact" alt="vatsal-patel-09 Top Languages" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-patel-09&show_icons=true&theme=dark&locale=en" alt="vatsal-patel-09 GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsal-patel-09&show_icons=true&theme=light&locale=en" alt="vatsal-patel-09 GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-patel-09&theme=dark" alt="vatsal-patel-09 GitHub Streak Stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsal-patel-09&theme=light" alt="vatsal-patel-09 GitHub Streak Stats" />
 </p>
